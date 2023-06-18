@@ -1,0 +1,23 @@
+{
+  "name": "add-to-anki",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanzhu39/add-to-anki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanzhu39/add-to-anki/issues"
+  },
+  "homepage": "https://github.com/alanzhu39/add-to-anki#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.206"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
